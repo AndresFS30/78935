@@ -7,7 +7,7 @@ namespace WDSL.operaciones
     {
         public string Saludar(string nombre)
         {
-            string msj = "Hola "+nombre", tesaluda Andres";
+            string msj = "Hola "+nombre", te saluda Andres";
             return msj;
         }
         public string Mostrar(int id)
